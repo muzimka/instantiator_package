@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>org.muzimka.utils.instansiator</groupId>
+  <groupId>org.muzimka.utils.instantiator</groupId>
   <artifactId>package</artifactId>
   <versioning>
     <release>1.1</release>
     <versions>
       <version>1.1</version>
     </versions>
-    <lastUpdated>20160627124857</lastUpdated>
+    <lastUpdated>20160627193605</lastUpdated>
   </versioning>
 </metadata>
