@@ -27,8 +27,8 @@
                 <filter>
                   <artifact>org.muzimka.utils.file:searcher</artifact>
                   <excludes>
-                    <exclude>org/muzimka/utils/DefaultFFinder.class</exclude>
-                    <exclude>org/muzimka/utils/parser/FileNameParser.class</exclude>
+                    <exclude>org/muzimka/utils/file/DefaultFFinder.class</exclude>
+                    <exclude>org/muzimka/utils/file/parser/FileNameParser.class</exclude>
                   </excludes>
                 </filter>
                 <filter>
